@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EvilCorp</string>
+    <string name="text_hello">olá, stranger</string>
+    <string name="text_age">what\'s your age?</string>
+    <string name="text_hint">you age goes here</string>
+    <string name="text_button">ok</string>
+</resources>
